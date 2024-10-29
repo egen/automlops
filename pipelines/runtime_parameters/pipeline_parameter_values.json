@@ -1,0 +1,8 @@
+{
+    "bq_table": "mdepew-assets.test_dataset.dry-beans",
+    "model_directory": "gs://mdepew-assets-bucket/trained_models/2024-10-29 19:47:56.488504",
+    "data_path": "gs://mdepew-assets-bucket/data",
+    "project_id": "mdepew-assets",
+    "region": "us-central1",
+    "gs_pipeline_spec_path": "gs://mdepew-assets-dry-beans-dt-bucket/pipeline_root/dry-beans-dt/pipeline_job.yaml"
+}
